@@ -1,0 +1,68 @@
+/* navber */
+
+#bgcolor {
+    background-image: url(../images/rectangle.png);
+}
+
+.nav-link,
+.navbar-text {
+    color: #3d2514 !important;
+}
+
+
+/* container */
+
+
+/* banner */
+
+#banner {
+    background-image: url(../images/rectangle.png);
+}
+
+#h5 {
+    margin-top: 120px;
+    padding: 8px;
+    border: 2px dashed #3d2514;
+    color: #3d2514;
+    font-size: 15px;
+    display: inline-block;
+}
+
+#h1 {
+    color: #3d2514;
+    font-size: 100px;
+}
+
+#h3 {
+    color: #3d2514;
+    font-size: 70px;
+}
+
+@media only screen and (max-width: 830px) {
+    #h5 {
+        margin-top: 30px;
+        font-size: 12px;
+    }
+    #h1 {
+        font-size: 85px;
+    }
+    #h3 {
+        font-size: 65px;
+    }
+}
+
+#abc {
+    background-image: url(../images/upcoming\ Rect.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.xyz {
+    background-image: url(../images/contact\ us\ design.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mno {
+    margin-top: 25px;
+}
